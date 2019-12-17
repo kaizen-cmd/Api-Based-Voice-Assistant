@@ -10,3 +10,5 @@ Twilio
 Openwaether
 smtplib
 and many others.
+Check funtions.py for complete list of libraries needed to be installed.
+
